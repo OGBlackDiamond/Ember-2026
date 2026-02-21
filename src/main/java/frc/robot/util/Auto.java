@@ -114,7 +114,7 @@ public class Auto {
                 midFromMid.cmd()
             )
         );
-    
+
         return fromMid;
     }
 }
